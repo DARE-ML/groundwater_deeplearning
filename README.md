@@ -28,13 +28,3 @@ matplotlib | Used in visualisations of data and results
 tensorflow | Primary source of neural network architecture 
 sklearn | Supplementary tools for metrics and evaluation 
 
-
-### Outputs
-Groundwater level, along with rainfll and streamflow for borehole 19
-![BH_19_graphs](https://github.com/DARE-ML/groundwater_deeplearning/assets/67773048/3d090e55-9732-4953-9139-27cecfcec82b)
-
-Groundwater model using streamflow only for borehole 17
-![BH_17_across_architecture](https://github.com/DARE-ML/groundwater_deeplearning/assets/67773048/18b82cc2-1818-4fbd-8cd4-80c0b00f755d)
-
-Groundwater model using rainfall only for borehole 17
-![BH_17_rainfall_across_architecture](https://github.com/DARE-ML/groundwater_deeplearning/assets/67773048/70899759-bb56-4f89-9e52-88e90d6ea734)

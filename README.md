@@ -1,6 +1,15 @@
 # groundwater_deeplearning
 Groundwater prediction using deep learning models
 
+## Getting the code
+
+You can download a copy of all the files in this repository by cloning the
+[git](https://git-scm.com/) repository:
+
+    git clone https://github.com/DARE-ML/groundwater_deeplearning.git
+
+or [download a zip archive](https://github.com/DARE-ML/groundwater_deeplearning/master.zip)
+
 ## Objective
 The objective of this code repository is to provide the source code for analysis done in **Deep learning for analysis of ground-water level via stream-flow and precipitation**, to improve the transparency and enable reproducability of the results and further discussions found in the paper.
 
